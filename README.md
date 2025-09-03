@@ -30,14 +30,7 @@ src/
 │    ├── TaskList.js   # Task grid layout  
 │    └── TaskItem.js   # Individual task card  
 
-🎨 Screenshots (UI Preview)
 
-👉 (Add screenshots here from your redesigned version, e.g., task list view, add form, completed task view.)
-
-📦 Installation & Usage
-Clone the repository
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
 
 Install dependencies
 npm install
